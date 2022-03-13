@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @MaxxAmillian1
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+MaxxAmillian1/MaxxAmillian1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--
+hi im maxxamillian1 and im interested in computer software. im currently learning how to code.
+im looking to learn more than just coding. the experience in itself has already been challenging to say the least.
+im open to all advice but not open to the rabbithole. 
